@@ -1,81 +1,81 @@
 ********************************************************************************************************
-data/nsp1.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-180:12 , 
+data/nsp1.fasta , Not Found : 31 , Total : 817 , Founded : 786 , Sequence ContainsX: 17 , Not Human : 0
+180:802 , 20:10 , 179:3 , 177:1 , 
 ********************************************************************************************************
-data/nsp2.fasta , Not Found : 2 , Total : 13 , Founded : 11 , Sequence ContainsX: 2 , Not Human : 0
-638:12 , 
+data/nsp2.fasta , Not Found : 139 , Total : 817 , Founded : 678 , Sequence ContainsX: 131 , Not Human : 0
+638:808 , 637:8 , 
 ********************************************************************************************************
-data/nsp3.fasta , Not Found : 3 , Total : 13 , Founded : 10 , Sequence ContainsX: 1 , Not Human : 0
-1945:10 , 1338:1 , 24:1 , 
+data/nsp3.fasta , Not Found : 226 , Total : 817 , Founded : 591 , Sequence ContainsX: 219 , Not Human : 0
+1945:809 , 1338:1 , 24:1 , 1944:3 , 395:1 , 1943:1 , 
 ********************************************************************************************************
-data/nsp4.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-500:12 , 
+data/nsp4.fasta , Not Found : 117 , Total : 817 , Founded : 700 , Sequence ContainsX: 117 , Not Human : 0
+500:816 , 
 ********************************************************************************************************
-data/nsp5.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-306:11 , 176:1 , 
+data/nsp5.fasta , Not Found : 21 , Total : 817 , Founded : 796 , Sequence ContainsX: 20 , Not Human : 0
+306:815 , 176:1 , 
 ********************************************************************************************************
-data/nsp6.fasta , Not Found : 6 , Total : 13 , Founded : 7 , Sequence ContainsX: 0 , Not Human : 0
-290:6 , 109:1 , 287:5 , 
+data/nsp6.fasta , Not Found : 722 , Total : 817 , Founded : 95 , Sequence ContainsX: 4 , Not Human : 0
+290:98 , 109:1 , 287:717 , 
 ********************************************************************************************************
-data/nsp7.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-83:12 , 
+data/nsp7.fasta , Not Found : 3 , Total : 817 , Founded : 814 , Sequence ContainsX: 3 , Not Human : 0
+83:816 , 
 ********************************************************************************************************
-data/nsp8.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-198:12 , 
+data/nsp8.fasta , Not Found : 14 , Total : 817 , Founded : 803 , Sequence ContainsX: 14 , Not Human : 0
+198:816 , 
 ********************************************************************************************************
-data/nsp9.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-113:12 , 
+data/nsp9.fasta , Not Found : 9 , Total : 817 , Founded : 808 , Sequence ContainsX: 9 , Not Human : 0
+113:816 , 
 ********************************************************************************************************
-data/nsp10.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-139:12 , 
+data/nsp10.fasta , Not Found : 21 , Total : 817 , Founded : 796 , Sequence ContainsX: 19 , Not Human : 0
+139:814 , 125:2 , 
 ********************************************************************************************************
-data/nsp11.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-13:12 , 
+data/nsp11.fasta , Not Found : 18 , Total : 817 , Founded : 799 , Sequence ContainsX: 18 , Not Human : 0
+13:816 , 
 ********************************************************************************************************
-data/nsp12.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-932:12 , 
+data/nsp12.fasta , Not Found : 51 , Total : 817 , Founded : 766 , Sequence ContainsX: 51 , Not Human : 0
+932:816 , 
 ********************************************************************************************************
-data/nsp13.fasta , Not Found : 2 , Total : 13 , Founded : 11 , Sequence ContainsX: 1 , Not Human : 0
-601:11 , 118:1 , 
+data/nsp13.fasta , Not Found : 100 , Total : 817 , Founded : 717 , Sequence ContainsX: 99 , Not Human : 0
+601:815 , 118:1 , 
 ********************************************************************************************************
-data/nsp14.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 1 , Not Human : 0
-527:12 , 
+data/nsp14.fasta , Not Found : 135 , Total : 817 , Founded : 682 , Sequence ContainsX: 130 , Not Human : 0
+527:811 , 419:4 , 526:1 , 
 ********************************************************************************************************
-data/nsp15.fasta , Not Found : 2 , Total : 13 , Founded : 11 , Sequence ContainsX: 0 , Not Human : 0
-346:10 , 122:2 , 
+data/nsp15.fasta , Not Found : 52 , Total : 817 , Founded : 765 , Sequence ContainsX: 50 , Not Human : 0
+346:814 , 122:2 , 
 ********************************************************************************************************
-data/nsp16.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-298:12 , 
+data/nsp16.fasta , Not Found : 112 , Total : 817 , Founded : 705 , Sequence ContainsX: 112 , Not Human : 0
+298:816 , 
 ********************************************************************************************************
-data/spike.fasta , Not Found : 7 , Total : 13 , Founded : 6 , Sequence ContainsX: 0 , Not Human : 0
-1273:5 , 761:1 , 1128:1 , 1270:5 , 
+data/spike.fasta , Not Found : 749 , Total : 817 , Founded : 68 , Sequence ContainsX: 33 , Not Human : 0
+1273:100 , 761:1 , 1128:1 , 1270:655 , 152:39 , 1271:13 , 1269:1 , 1272:5 , 209:1 , 
 ********************************************************************************************************
-data/envelope.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-75:12 , 
+data/envelope.fasta , Not Found : 6 , Total : 817 , Founded : 811 , Sequence ContainsX: 3 , Not Human : 0
+75:813 , 76:3 , 
 ********************************************************************************************************
-data/membrane.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-222:11 , 117:1 , 
+data/membrane.fasta , Not Found : 15 , Total : 817 , Founded : 802 , Sequence ContainsX: 13 , Not Human : 0
+222:814 , 117:1 , 223:1 , 
 ********************************************************************************************************
-data/nucleoprotein.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-419:11 , 0:1 , 
+data/nucleoprotein.fasta , Not Found : 28 , Total : 817 , Founded : 789 , Sequence ContainsX: 23 , Not Human : 0
+419:811 , 404:3 , 361:1 , 418:1 , 
 ********************************************************************************************************
-data/orf3a.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-275:11 , 238:1 , 
+data/orf3a.fasta , Not Found : 61 , Total : 817 , Founded : 756 , Sequence ContainsX: 34 , Not Human : 0
+275:789 , 238:1 , 276:24 , 274:1 , 13:1 , 
 ********************************************************************************************************
-data/orf6.fasta , Not Found : 0 , Total : 13 , Founded : 13 , Sequence ContainsX: 0 , Not Human : 0
-61:12 , 
+data/orf6.fasta , Not Found : 2 , Total : 817 , Founded : 815 , Sequence ContainsX: 0 , Not Human : 0
+61:814 , 60:1 , 62:1 , 
 ********************************************************************************************************
-data/orf7a.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-121:11 , 12:1 , 
+data/orf7a.fasta , Not Found : 189 , Total : 787 , Founded : 598 , Sequence ContainsX: 27 , Not Human : 0
+121:624 , 12:10 , 122:133 , 120:4 , 61:4 , 114:1 , 93:1 , 75:1 , 97:1 , 106:1 , 99:2 , 117:4 , 
 ********************************************************************************************************
-data/orf7b.fasta , Not Found : 1 , Total : 13 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-43:11 , 41:1 , 
+data/orf7b.fasta , Not Found : 150 , Total : 815 , Founded : 665 , Sequence ContainsX: 144 , Not Human : 0
+43:808 , 41:1 , 44:5 , 
 ********************************************************************************************************
-data/orf8.fasta , Not Found : 5 , Total : 13 , Founded : 8 , Sequence ContainsX: 0 , Not Human : 0
-121:7 , 26:5 , 
+data/orf8.fasta , Not Found : 721 , Total : 817 , Founded : 96 , Sequence ContainsX: 5 , Not Human : 0
+121:100 , 26:710 , 17:4 , 122:2 , 
 ********************************************************************************************************
-data/orf9b.fasta , Not Found : 0 , Total : 12 , Founded : 12 , Sequence ContainsX: 0 , Not Human : 0
-97:11 , 
+data/orf9b.fasta , Not Found : 7 , Total : 816 , Founded : 809 , Sequence ContainsX: 3 , Not Human : 0
+97:811 , 98:4 , 
 ********************************************************************************************************
-data/orf9c.fasta , Not Found : 1 , Total : 12 , Founded : 11 , Sequence ContainsX: 0 , Not Human : 0
-73:10 , 45:1 , 
+data/orf9c.fasta , Not Found : 15 , Total : 816 , Founded : 801 , Sequence ContainsX: 2 , Not Human : 0
+73:802 , 45:1 , 11:1 , 19:1 , 40:6 , 41:1 , 74:2 , 55:1 , 
