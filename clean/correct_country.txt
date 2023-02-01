@@ -1,0 +1,74 @@
+Albania, #Albania
+Andorra, Andorre
+Antigua and Barbuda, Antigua and Barbuda, AntiguaandBarbuda, Antigua
+Australia, Austraila
+Bosnia and Herzegovina, Bosnia and Herzegovina, BosniaandHerzegovina
+Brazil, Brasil
+British Virgin Islands, British Virgin Islands, BritishVirginIslands
+Burkina Faso, Burkina Faso, BurkinaFaso, BurkinaFaso
+Cape Verde, Cabo Verde, Cabo verde, Cabo Verde, CaboVerde
+Cameroon, Cameroun
+Canary Islands, Canary Islands, CanaryIslands
+Cayman Islands, CaymanIslands
+Central African Republic, Central African Republic, CentralAfricanRepublic
+Costa Rica, Costa Rica, CostaRica
+Cote Ivoire,Côte d'Ivoire, Cote d'Ivoire, Cote d'Ivoire, Cote d Ivoire, CotedIvoire, Coted'Ivoire,CÃ´te d'Ivoire
+Czechia, Czech Republic, Czech Republic, Czech_Republic, CzechRepublic, CzechRepublic
+Dominican Republic, Dominican Republic, DominicanRepublic
+El Salvador, El Salvador, ElSalvador
+Equatorial Guinea, Equatorial Guinea, EquatorialGuinea
+Faroe Islands, FaroeIslands
+French Guiana, French Guiana, French_Guiana, FrenchGuiana, FrenchGuiana
+French Polynesia, FrenchPolynesia, FrenchPolynesia
+Guinea-Bissau, Guinea Bissau, Guinea Bissau, GuineaBissau
+Guyana, Guyane
+Hong Kong, Hong Kong, HongKong
+India, #India, india
+Italy, taly, Ital, ITA
+Liechtenstein, Liechstenstein
+Malta, MAlta, malta
+Mauritania, Mauritanie
+Mauritius, Mauritius 
+Mexico, MEX, #Mexico, MexicoMEX
+Montserrat, Monsterrat
+Nanchang, Nan Chang, NanChang
+New Zealand, New Zealand, NewZealand
+New Caledonia, NewCaledonia
+Nicaragua, Nicaragua
+North Macedonia, North Macedonia
+Northern Ireland, Northern Ireland, NorthernIreland
+Northern Mariana Islands, NorthernMarianaIslands
+North Macedonia, NorthMacedonia, NorthMacedonia
+Papua New Guinea, Papua New Guinea, PapuaNewGuinea
+Puerto Rico, Puerto Rico, PuertoRico
+Republic of the Congo, RepublicoftheCongo
+Romania, romania, Romnaia
+Saint Vincent and the Grenadines, Saint Vincent and the Grenadines, Saint Vincent and The Grenadines, SaintVincentandtheGrenadines, SaintVincentandTheGrenadines
+Saint Barthélemy, Saint Barthelemy, SaintBarthelemy
+Saint Kitts and Nevis, SaintKittsandNevis
+Saint Lucia, SaintLucia
+Saint Martin, Saint-Martin, Saint-Martin, SaintMartin
+Sint Maarten, Sint Maarten, SintMaarten
+Saudi Arabia, Saudi Arabia, SaudiArabia
+Senegal, senegal
+Sierra Leone, SierraLeone
+Sint Eustatius, SintEustatius, St. Eustatius
+Solomon Islands, SolomonIslands
+South Africa, South Africa, South_Africa, SouthAfrica, SouthAfrica
+South Korea, South Korea, SouthKorea
+South Sudan, South Sudan, SouthSudan
+Spain, spain, Spain and plub
+Sri Lanka, Sri Lanka, SriLanka, SriLanka
+Saint Lucia, St Lucia, StLucia
+Trinidad and Tobago, Trinidad and Tobago, TrinidadandTobago
+Turks and Caicos Islands, Turks and Caicos, TurksandCaicosIslands
+U.S. Virgin Islands, U.S. Virgin Islands, U.S.VirginIslands, US Virgin Islands
+United Arab Emirates, United Arab Emirates, UnitedArabEmirates
+United Kingdom, UnitedKingdom
+United States, UnitedStates, US, #USA, USA, USA, #USA, USA, USA DUD, U.S.
+Wallis and Futuna, WallisandFutuna
+Zambia, Zambai
+Saint BarthAclemy,Saint BarthÃ©lemy
+
+
+
